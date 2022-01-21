@@ -8,7 +8,7 @@ Important problems and Python solutions of [LeetCode](https://leetcode.com/).
 - There are many solutions of each problem, but not every solution is intuitive.
 - There are many ways to learn, but always less wins more.
 
-That is why this repo appears.
+That is why this repo appears. The Python solutions and comments are provided for the important questions. Colorful tags help to refresh your memory while reviewing. 
 
 ### LeetCode Algorithm
 
@@ -136,7 +136,7 @@ That is why this repo appears.
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python](./600-700q/673.py)|Medium|
 
 
-##### [Problems 400-500](./400-500Q/)
+##### [Problems 400-500](./400-500q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|[Python](./400-500q/482.py)|Easy|
@@ -167,6 +167,7 @@ That is why this repo appears.
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./300-400q/326.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./300-400q/322.py)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](./300-400q/315.py)|Hard|
+|314|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](./300-400q/315.py)|Hard|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)|[Python](./300-400q/307.py)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Python](./300-400q/301.py)|Hard|
 
