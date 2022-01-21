@@ -121,6 +121,7 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Python](./900-1000q/990.py)|Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./900-1000q/989.py)|Easy|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Python](./900-1000q/988.py)|Medium|
+|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](./900-1000q/987.py)|kkk|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python](./900-1000q/985.py)|Easy|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [Python](./900-1000q/984.py)|Easy|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python](./900-1000q/983.py)|Medium|
