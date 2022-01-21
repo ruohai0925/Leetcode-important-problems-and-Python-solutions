@@ -160,7 +160,7 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./300-400q/350.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./300-400q/347.py)|Medium|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)|[Python](./300-400q/346.py)|Easy|
-|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|[Python](./300-400q/340.py)|Hard|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|[Python](./300-400q/340.py)|kkk|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./300-400q/334.py)|Medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](./300-400q/332.py)|Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python](./300-400q/329.py)|Medium|
@@ -220,7 +220,7 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Python](./100-200q/155.py)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [Python](./100-200q/152.py)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./100-200q/150.py)|Medium|
-|148|[Sort List](https://leetcode.com/problems/sort-list/)| [Python](./100-200q/148.py)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)| [Python](./100-200q/148.py)|kkk|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [Python](./100-200q/147.py)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Python](./100-200q/146.py)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](./100-200q/145.py)|Hard|
@@ -314,8 +314,9 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](./1-100q/26.py)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Python](./1-100q/25.py)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](./1-100q/24.py)|Medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Python](.//1-100q/23.py)|Hard|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Python](.//1-100q/23.py)|kkk|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](./1-100q/22.py)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](./1-100q/21.py)|kkk|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Python](./1-100q/19.py)|Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [Python](./1-100q/18.py)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](./1-100q/17.py)|Medium|
@@ -327,5 +328,5 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [Python](./1-100q/06.py)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](./1-100q/05.py)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](./1-100q/4.py)|Hard|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./1-100q/03.py)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./1-100q/03.py)|kkk|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./1-100q/TwoSum.py)|Medium|
