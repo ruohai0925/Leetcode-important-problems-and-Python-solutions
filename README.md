@@ -3,11 +3,12 @@
 # Leetcode-important-problems-and-Python-solutions
 Important problems and Python solutions of [LeetCode](https://leetcode.com/).
 
-##### [Extra Algorithms](./Extra/)
-| # | Title | Solution |
-|---| ----- | -------- | 
-|1|Suffix Array|[Python](./Extra/suffix_array.py)|
-|2|Longest Common Prefix|[Python](./Extra/lcp.py)|
+**Notes**
+- There are many Leetcode problems, but we only need to understand some of them. 
+- There are many solutions of each problem, but not every solution is intuitive.
+- There are many ways to learn, but always less wins more.
+
+That is why this repo appears.
 
 ### LeetCode Algorithm
 
