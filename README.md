@@ -167,7 +167,7 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./300-400q/326.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./300-400q/322.py)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](./300-400q/315.py)|Hard|
-|314|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](./300-400q/315.py)|Hard|
+|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Python](./300-400q/314.py)
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)|[Python](./300-400q/307.py)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Python](./300-400q/301.py)|Hard|
 
