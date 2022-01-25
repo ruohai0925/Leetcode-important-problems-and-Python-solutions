@@ -144,6 +144,7 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./400-500Q/454.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python](./400-500q/448.py)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Python](./400-500q/442.py)|Easy|
+|426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Python](./400-500q/426.py)|kkk|
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting)|[Python](./400-500q/418.py)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./400-500Q/410.py)|Hard|
 
@@ -196,6 +197,7 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Python](./200-300q/234.py)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Python](./200-300q/230.py)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Python](./200-300q/226.py)|Easy|
+|216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)| [Python](./200-300q/216.py)|kkk|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Python](./200-300q/215.py)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [Python](./200-300q/210.py)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](./200-300q/208.py)|Medium|
@@ -302,8 +304,8 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [Python](./1-100q/44.py)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](./1-100q/42.py)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Python](./1-100q/41.py)|Hard|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](./1-100q/40.py)|Medium|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](./1-100q/39.py)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](./1-100q/40.py)|kkk|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](./1-100q/39.py)|kkk|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [Python](./1-100q/38.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Python](./1-100q/36.py)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [Python](./1-100q/34.py)|Medium|
@@ -311,9 +313,10 @@ That is why this repo appears. The Python solutions and comments are provided fo
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Python](./1-100q/32.py)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Python](./1-100q/31.py)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Python](./1-100q/30.py)|Hard|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](./1-100q/26.py)|Easy|
+|27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)| [Python](./1-100q/27.py)|kkk|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](./1-100q/26.py)|kkk|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Python](./1-100q/25.py)|Hard|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](./1-100q/24.py)|Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](./1-100q/24.py)|kkk|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Python](.//1-100q/23.py)|kkk|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](./1-100q/22.py)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](./1-100q/21.py)|kkk|
